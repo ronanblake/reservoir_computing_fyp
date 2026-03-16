@@ -10,6 +10,21 @@ The project explores:
 - Modelling of the Lorenz system
 - Autonomous reservoir dynamics and attractor behaviour
 
-The implementation is contained in:
+The number at the start of a file corresponds to the section of the project report to which that code relates.
 
-Reservoir_Computing_FYP.ipynb
+# Repository structure
+
+1-Reservoir_Diagram.ipynb  
+    Visualisation of the reservoir network.
+
+2-Interpolation_Extrapolation.ipynb  
+    Logistic map interpolation and extrapolation.
+
+3-Optimizing_Prediction_Horizon.ipynb  
+    Viewing the prediction horizon as a function of warm-up length and then of the RCs hyperparameters.
+
+4-Lorenz_system.ipynb  
+    Reservoir computing applied to the Lorenz system.
+
+5-Autonomous_Mapping.ipynb  
+    Analysis of the autonomous reservoir dynamics and attractor behaviour.
