@@ -1,4 +1,4 @@
-# reservoir_computing_fyp
+# Reservoir Computing for Chaotic Systems
 Reservoir computing experiments for predicting chaotic systems
 This repository contains code for my final year project investigating
 reservoir computing applied to chaotic dynamical systems.
