@@ -27,6 +27,6 @@ The number at the start of a file corresponds to the section of the project repo
 
 5-Autonomous_Mapping.ipynb  
     Analysis of the autonomous reservoir dynamics and attractor behaviour.
-    Autononomous_Optimised_Hyperparameters.ipynb is an exteninsion of this
+    Autononomous_Optimised_Hyperparameters.ipynb is an extension of this
 
 
