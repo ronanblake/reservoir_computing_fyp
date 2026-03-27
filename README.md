@@ -13,20 +13,22 @@ The number at the start of a file corresponds to the section of the project repo
 
 # Repository structure
 
-1-Reservoir_Diagram.ipynb  
+- `1-Reservoir_Diagram.ipynb`  
     Visualisation of the reservoir network.
 
-2-Interpolation_Extrapolation.ipynb  
+- `2-Interpolation_Extrapolation.ipynb`  
     Logistic map interpolation and extrapolation.
 
-3-Optimizing_Prediction_Horizon.ipynb  
-    Viewing the prediction horizon as a function of warm-up length and then of the RCs hyperparameters.
+- `3-Optimizing_Prediction_Horizon.ipynb`  
+  Viewing the prediction horizon as a function of warm-up length and then of the RC's hyperparameters.
 
-4-Lorenz_system.ipynb  
-    Reservoir computing applied to the Lorenz system.
+- `4-Lorenz_system.ipynb`  
+  Reservoir computing applied to the Lorenz system.
 
-5-Autonomous_Mapping.ipynb  
-    Analysis of the autonomous reservoir dynamics and attractor behaviour.
-    Autononomous_Optimised_Hyperparameters.ipynb is an extension of this
+- `5-Autonomous_Mapping.ipynb`  
+  Analysis of the autonomous reservoir dynamics and attractor behaviour.
+
+- `5-Autonomous_Optimised_Hyperparameters.ipynb`  
+  Repeat of `Autonomous_Mapping` using the parameters from Section 3 that were found to be most optimal.
 
 
